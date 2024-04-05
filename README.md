@@ -16,15 +16,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> 
-  </p>
-
-<br>
-
-
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
