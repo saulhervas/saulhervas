@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Saúl Hervás Gallego</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on  Soy Estudiante
+  
+- 🌱 I’m currently learning Git, Java y GitHub
+  
+- 👯 I’m looking to collaborate on Proyectos
+  
+- 💬 Ask me about Sql, Java, C#, JavaScript
+  
+- ⚡ Fun fact: Me gustan los girasoles.
 
 <br>
 
@@ -10,13 +22,6 @@
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
