@@ -11,6 +11,8 @@
 - 📫 How to reach me: saulhervasgallego@gmail.com
 
 - 🌱 I’m currently learning Kotlin and Android Studio
+
+- 🔭 I’m currently working on an application to store your Bonsai trees. :deciduous_tree: 
   
 - 💬 Ask me about Java, Kotlin, HTML, CSS...
 
