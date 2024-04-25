@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Kotlin and Android Studio
 
-- 🔭 I’m currently working on an application to store your Bonsai trees. :deciduous_tree: 
+<!-- - 🔭 I’m currently working on an application to store your Bonsai trees. :deciduous_tree: -->
   
 - 💬 Ask me about Java, Kotlin, HTML, CSS...
 
