@@ -14,7 +14,7 @@
 
 <!-- - 🔭 I’m currently working on an application to store your Bonsai trees. :deciduous_tree: -->
   
-- 💬 Ask me about Java, Kotlin, HTML, CSS...
+- 💬 Ask me about Kotlin, Java, HTML, CSS...
 
 - 💻 I am developing my skills as a Mobile Developer | Enthuastic about new technologies
 
